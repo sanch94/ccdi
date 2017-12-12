@@ -57,11 +57,11 @@
             datos.data.datasets.splice(0);
             var newData = {
                 backgroundColor : [
+                    "#949FB1",
+                    "#4D5360",
                     "#F7464A",
                     "#46BFBD",
                     "#FDB45C",
-                    "#949FB1",
-                    "#4D5360",
                 ],
                 data : [getRandom(), getRandom(), getRandom(), getRandom(), getRandom()]
             };

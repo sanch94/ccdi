@@ -258,5 +258,5 @@
     <asset:javascript src="morris.js"/>
     <asset:javascript src="dashboard-demo.js"/>
 
-</body>
+</body><!--termina cuerpo-->
 </html>
